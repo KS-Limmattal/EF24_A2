@@ -16,16 +16,13 @@
 
 Schreibe deine Lösungen in die Klasse `LoopExercises.java`.
 
-a) Schreibe eine Methode crossSum(), die die Quersumme eines int-Arguments n zurückgibt.
+a) Schreibe eine Methode `crossSum()`, die die Quersumme eines `int`-Arguments `n` zurückgibt.
 
 b) Schreibe eine Methode `primeFactorisation()`, die eine positive `int`-Zahl `n` in ihre Primfaktoren zerlegt. Die Methode soll die Zerlegung auf der Konsole ausgeben, z.B. für das Argument `12` soll auf der Konsole die Zeile `Prime facorisation of 12 = 2 * 2 * 3` ausgegeben werden.
 
 c) Ausprobieren statt denken:
-Computer sind so schnell, dass sie gewisse Dinge einfach ausprobieren können. Password-Knackprogramme funktionieren 
-nach diesem Prinzip.
-Captain CiaoCiao blättert in der "Pirates Daily" und findet eine Denksportaufgabe: Er muss für die Buchstaben 
-`L`, `O`, `T` und `X` jeweils eine Ziffer finden, damit die Rechnung `XOL` + `LXX` = `TLT` stimmt. Der Preis für das Rätsel ist ein 
-alter Kompass, den will Captain CiaoCiao unbedingt gewinnen. Doch leider fehlt ihm die Lust zu denken.
+Computer sind so schnell, dass sie gewisse Dinge einfach ausprobieren können. Password-Knackprogramme funktionieren nach diesem Prinzip.
+Captain CiaoCiao blättert in der "Pirates Daily" und findet eine Denksportaufgabe: Er muss für die Buchstaben L`, `O`, `T` und `X` jeweils eine Ziffer finden, damit die Rechnung `XOL` + `LXX` = `TLT` stimmt. Der Preis für das Rätsel ist ein alter Kompass, den will Captain CiaoCiao unbedingt gewinnen. Doch leider fehlt ihm die Lust zu denken.
 
 Entwickle ein Programm `tryAll()`, das durch Ausprobieren aller Möglichkeiten eine Lösung findet.
 Gib alle Lösungen aus und markiere die Lösungen, in denen `X`, `O`, `L` und `T` alle unterschiedlich sind.
