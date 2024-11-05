@@ -10,7 +10,7 @@
 ### Ressourcen
 
 - `LoopExamples.java`
-- [W3Schools](https://www.w3schools.com/java): Seiten "Java Switch" bis und mit "Java Break/ Continue".
+- [W3Schools](https://www.w3schools.com/java): Seiten "Java While Loop" bis und mit "Java Break/ Continue".
 
 ### Aufgabenstellungen
 
