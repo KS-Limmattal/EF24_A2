@@ -22,7 +22,7 @@ b) Schreibe eine Methode `primeFactorisation()`, die eine positive `int`-Zahl `n
 
 x) Schreibe eine Funktion `countOnes()`, die eine `int`-Zahl `n` entgegennimmt und zählt, wie häufig darin die Ziffer 1 vorkommt.
 
-y) Schreibe eine Funktion `factorial()`, die eine `int`-Zahl `n` entgegennimmt und n! berechnet.
+y) Schreibe eine Funktion `factorial()`, die eine `int`-Zahl `n` entgegennimmt und ihre Fakultät n! berechnet.
 
 c) Ausprobieren statt denken:
 Computer sind so schnell, dass sie gewisse Dinge einfach ausprobieren können. Password-Knackprogramme funktionieren nach diesem Prinzip.
